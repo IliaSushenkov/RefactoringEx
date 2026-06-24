@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="RefactoringExercise.Domain/RefactoringExercise.Domain.csproj" />
+  <Project Path="RefactoringExercise.Application/RefactoringExercise.Application.csproj" />
+  <Project Path="RefactoringExercise.Infrastructure/RefactoringExercise.Infrastructure.csproj" />
+  <Project Path="RefactoringExercise.API/RefactoringExercise.Api.csproj" />
+  <Project Path="RefactoringExercise.Tests/RefactoringExercise.Tests.csproj" />
+</Solution>
